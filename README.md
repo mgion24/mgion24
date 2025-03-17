@@ -1,17 +1,17 @@
 
 👋 ¡Hola! Soy Marian
 
-🚀 SysAdmin | DevOps | Ciberseguridad | Desarrollo Web
-⚡ Apasionado por la automatización, la seguridad ofensiva y el despliegue de infraestructuras
+🚀 SysAdmin | Desarrollo Web | Ciberseguridad
+⚡ Apasionado por la programación y automatización, la seguridad ofensiva y el despliegue de infraestructuras
 
 
 ---
 
 💻 Sobre mí
 
-Tengo cierta experiencia básica en administración de servidores, despliegue de servicios y ciberseguridad ofensiva. Actualmente poseo 2 títulos, ASIR y DAW, lo que me ha permitido desarrollar habilidades tanto en programación como en administración de sistemas.
+Tengo cierta experiencia básica en administración de servidores y despliegue de servicios. ASIR y DAW me han permitido desarrollar habilidades tanto en programación como en administración de sistemas.
 
-Me encanta experimentar con nuevas tecnologías, automatizar procesos y mejorar la seguridad de mis sistemas. Disfruto explorando el hacking ético y probando herramientas de PENTESTING. 
+Me encanta experimentar con nuevas tecnologías y desplegarlas en entornos auto-alojados. También soy curioso con el Hacking Ético y hago pruebas de vez en cuando.
 
 Además disfruto mucho programando herramientas y utilidades.
 
