@@ -59,5 +59,7 @@ Scripts para mejorar la gestión de servidores
 
 Si te interesa colaborar en algún proyecto, no dudes en contactar conmigo.
 📧 Email: mariangeorgian@syncbetter.es
+
 🔗 LinkedIn: https://www.linkedin.com/in/marian-georgian-ion-3b39b11b6
+
 📷 Instagram: https://www.instagram.com/marian.py
